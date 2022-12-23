@@ -1,0 +1,25 @@
+.perfil_conteudo {
+    margin: 35px 0;
+    text-align: center;
+    color: var(--cor-terciaria);
+}
+
+.perfil_imagem {
+    display: block;
+    /* center this image */
+    margin: 0 auto;
+    /* make it a circle */
+    border-radius: 50%;
+    /* set the width and height */
+    width: 96px;
+    height: 96px;
+    /* set the background image */
+    background-image: url('../../assets/hero-image.png');
+    /* cover the entire element */
+    background-size: cover;
+    width: 96px;
+    height: 96px;
+    background-image: url('../../assets/hero-image.png');
+    background-size: cover;
+    
+}
